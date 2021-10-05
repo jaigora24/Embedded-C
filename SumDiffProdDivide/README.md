@@ -1,0 +1,1 @@
+WAP in Embedded C to find the sum, difference, product, divison of 2 bytes stored at 3000H & 3001H & store ths sum at 3002H, difference at 3003H, product at 3004H & 3005H, quotient at 3006H & remainder at 3007H.
